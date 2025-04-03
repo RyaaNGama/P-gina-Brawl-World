@@ -1,4 +1,4 @@
-* {
+/* {
 font-family: sans-serif;
 }
 
@@ -10,4 +10,4 @@ justify-content: space-between;
 header ul {
     display: flex;
 
-}
+}//
